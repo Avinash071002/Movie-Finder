@@ -7,6 +7,10 @@
         About
     </a>
     <span>&nbsp;✦&nbsp;</span>
+    <a href="#-about" target="_blank">
+      Deployed Website
+    </a>
+    <span>&nbsp;✦&nbsp;</span> 
     <a href="#-preview" target="_blank">
         Preview
     </a>
@@ -23,21 +27,6 @@
         Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-commands" target="_blank">
-        Commands
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-contributions" target="_blank">
-        Contributions
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-license" target="_blank">
-        License
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-support" target="_blank">
-        Support
-    </a>
 </div>
 <br>
 
@@ -51,6 +40,9 @@ Enjoy the magic of cinema! 🎥🍿
 
 <p align="right">(<a href="#top" >Go Back To Top 🔝</a>)</p>
 
+##  Deployed Website
+This project is deployed on vercel
+Link: https://movie-finder-jet-eta.vercel.app/
 ## 👀 Preview
 <h4>In a PC (1920x1080)</h4>
 <img src="./src/assets/images/webp/Movie-Finder(PC).webp" alt="Project screenshot with a resolution of 1920x1080" width="900">
