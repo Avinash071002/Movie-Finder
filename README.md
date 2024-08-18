@@ -51,8 +51,6 @@
 </div>
 <br>
 
->If you want to read this readme in **Spanish**
->- [**Spanish README**](https://github.com/joserafael0160/Movie-Finder/blob/main/README.es.md)
 
 ## 📜 About 
 Welcome to my movie search engine! With this tool, you can explore and search for your favorite films. 
@@ -85,23 +83,8 @@ Enjoy the magic of cinema! 🎥🍿
   
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
-## 🧰 Stack
-- [**React**](https://reactjs.org/) - A JavaScript library for building interactive user interfaces.
-- [**Vite**](https://vitejs.dev/) - A fast and lightweight development environment for modern web applications.
-- [**ESLint**](https://eslint.org/) - An open-source tool that helps you find and fix problems in your JavaScript code.
 
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-
-## 🚀 Getting Starter
-1. **Fork** or clone this repository
-
-```bash
-git clone git@github.com:joserafael0160/Movie-Finder.git
-```
-
-2. Install the dependencies: 
+ Install the dependencies: 
 
 - I used [**bun**](https://bun.sh) to install and manage the dependencies.
   
@@ -152,33 +135,8 @@ pnpm run dev
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 
-## 🤝 Contributions
 
-Contributions are always welcome! Whether you’re reporting bugs, requesting new features, or improving existing functionalities, your help is **greatly appreciated**.
 
-If you have any suggestions that could improve the project, please make a [_fork_](https://github.com/joserafael0160/Movie-Finder/fork) of the repository and create a [_pull request_](https://github.com/joserafael0160/Movie-Finder/pulls). You can also simply open an [_issue_](https://github.com/joserafael0160/Movie-Finder/issues) with the “enhancement” label.
-
-Here is a quick guide:
-
-1. Make a [_fork_](https://github.com/joserafael0160/Movie-Finder/fork) of the Project
-2. Clone your [_fork_](https://github.com/joserafael0160/Movie-Finder/fork) (`git clone <URL of the fork>`)
-3. Add the original repository as remote (`git remote add upstream <URL of the original repository>`)
-4. Create your Feature Branch (`git switch -c feature/NewFeature`)
-5. Make your Changes (`git commit -m 'Add: some NewFeature'`)
-6. Push to the Branch (`git push origin feature/NewFeature`)
-7. Open a [_pull request_](https://github.com/joserafael0160/Movie-Finder/pulls)
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-## 🔑 License
-[MIT](https://github.com/joserafael0160/Movie-Finder/blob/main/LICENSE)
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-## 🙏 Support
-Don't forget to leave a star ⭐️
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 <br>
 <hr>
