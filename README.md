@@ -19,14 +19,7 @@
         Features
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-stack" target="_blank">
-        Stack
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="#-getting-starter" target="_blank">
-        Getting Started
-    </a>
-    <span>&nbsp;✦&nbsp;</span>
+    
 </div>
 <br>
 
