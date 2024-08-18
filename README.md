@@ -2,16 +2,6 @@
 
 <h1 align="center"><img src="./public/favicons/favicon-96x96.png" width="30" align="center"> Movie Finder</h1>
 
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Made with love">
-  </a>
-  <a href="https://opensource.org/licenses/MIT" target="_blank">
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  </a>
-</p>
-
 <div align="center">
     <a href="#-about" target="_blank">
         About
@@ -134,12 +124,3 @@ pnpm run dev
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
-
-
-
-
-<br>
-<hr>
-<p align="center">✌️</p>
-<p align="center">
-<sub><sup>A project created by <a href="https://github.com/joserafael0160">@joserafael0160</a></sup></sub>
