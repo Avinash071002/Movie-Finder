@@ -111,16 +111,4 @@ pnpm run dev
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
-## 🧞 Commands
-|      | Command   | Action                                         |
-| :--- | :-------- | :-------------------------------------------- |
-| ⚙️    | `dev`     | Starts the local development server.           |
-| ⚙️    | `build`   | Builds the production version to `./dist/`.    |
-| ⚙️    | `lint`    | Runs ESLint to find issues in your JavaScript code. |
-| ⚙️    | `preview` | Previews the local build.                      |
-| ⚙️    | `predeploy` | Generates the production version before deploying. |
-| ⚙️    | `deploy`  | Deploys the site to GitHub Pages from the `dist` folder. |
-
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
